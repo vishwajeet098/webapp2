@@ -1,3 +1,44 @@
+# About
+This is a simple project demonstrating how to fetch user data on click of a button ('get users') from the database.
+
+## Method 
+For styling the frontend layouts i have used 'Chakra UI' , a simple accessible component library that gives the building blocks to build React applications.
+
+I have implemented backend using react query, a pre-configured library that aims to solve complexities. Using React Query, we can fetch, cache, and update data in React-based applications in a simple and declarative manner without mutating the global state.
+
+The data from the 'https://reqres.in/api/users?page=1' is stored in a localhost server and then retrieved using the react queries for easy and stablized use of the application.
+
+The retrieved data is displayed using the grid module of chakra UI to maintain simple and clean code by delivering impressive interface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
