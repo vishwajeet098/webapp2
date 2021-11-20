@@ -1,0 +1,6 @@
+{
+"scripts": {
+  "dev":"json-server --watch db.json --port 3003 --delay 3000"
+},
+"dependencies": {"json-server":"^0.17.0"}
+}
